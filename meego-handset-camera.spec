@@ -1,4 +1,3 @@
-
 Name:       meego-handset-camera
 
 # >> macros
@@ -8,7 +7,7 @@ Summary:    Camera application
 Version:    1.0.7
 Release:    1
 Group:      Applications/Internet
-License:    TBD
+License:    MIT
 Source0:    %{name}-%{version}.tar.bz2
 #Requires:  pkgconfig(QtCore) >= 4.7.0
 #Requires:  pkgconfig(QtGui)
